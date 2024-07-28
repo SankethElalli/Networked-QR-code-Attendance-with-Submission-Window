@@ -44,8 +44,8 @@ Login as a student.
 Scan the QR code displayed by the faculty to mark attendance within the specified submission window.
 
 # Configuration
-- **Setting the Submission Window**
+- **Setting the Submission Window**:
 You can configure the time window for attendance submission in the Django admin panel. This ensures students can only mark attendance during this predefined period.
 
-- **Customizing QR Code**
+- **Customizing QR Code**:
 The QR code can be customized by modifying the relevant views and templates in the Django application.
