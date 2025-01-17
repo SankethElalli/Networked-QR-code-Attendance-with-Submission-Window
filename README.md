@@ -18,7 +18,7 @@ This project is developed for Jain College of Engineering and Technology, Hubbal
 
 # Installation
 - **Clone the repository**:
-git clone https://github.com/your-username/Networked-QR-Code-Attendance-with-Submission-Window.git
+git clone https://github.com/SanketElalli/Networked-QR-Code-Attendance-with-Submission-Window.git
 cd Networked-QR-Code-Attendance-with-Submission-Window
 
 - **Install dependencies**:
